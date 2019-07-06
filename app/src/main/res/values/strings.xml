@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CookBook 2.0</string>
+    <string name="cookbook"></string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2"></string>
+    <string name="button_3">Button 3</string>
+    <string name="button_4"></string>
+    <string name="button_6"></string>
+    <string name="button_burger_1"></string>
+    <string name="button_burger_2"></string>
+    <string name="back_button"> Back button</string>
+    <string name="button_burger_reciepe"></string>
+    <string name="przepis">Przepis</string>
+    <string name="button_przepis">Button Przepis</string>
+
+
+</resources>
